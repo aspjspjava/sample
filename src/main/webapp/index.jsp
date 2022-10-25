@@ -9,5 +9,6 @@
 <body>
 <a href="<%=request.getContextPath()%>/memo.do">메모장</a>
 <h3>안녕하세요1</h3>
+<h3>안녕하세요2</h3>
 </body>
 </html>
